@@ -1,2 +1,2 @@
 # CRM_App
-Customer Relationship Management
+Customer Relationship Management app created with Django
